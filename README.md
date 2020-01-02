@@ -4,4 +4,4 @@ true, false or unverifiable based on the information in a large text corpus from
 Code by Xudong Ma\
 Report by Dong Jia and Xudong Ma\
 Transfer Learning on Bert using Tensorflow and Google TPU\
-Code both for GPU and TPU versions are here
+Both TPU and GPU versions of code are here.
